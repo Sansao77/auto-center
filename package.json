@@ -1,0 +1,27 @@
+{
+  "name": "auto-center",
+  "version": "1.0.0",
+  "description": "O Autocenter resolverá o problema da falta de conexão prática entre motoristas e oficinas, centralizando em um único lugar a solicitação de serviços, acompanhamento de manutenção e relacionamento com prestadores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansao77/auto-center.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sansao77/auto-center/issues"
+  },
+  "homepage": "https://github.com/Sansao77/auto-center#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
